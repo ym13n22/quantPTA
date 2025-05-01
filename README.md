@@ -24,9 +24,11 @@
 止损保护：限制最大回撤，防止资金大幅亏损
 
 ✅ 使用方法
+
 安装依赖：
 
 pip install pandas numpy matplotlib
+
 运行策略回测：
 
 python backtest.py
